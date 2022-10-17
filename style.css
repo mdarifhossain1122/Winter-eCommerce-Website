@@ -99,8 +99,8 @@ body{
 
 
 
-/* about section */
+/* Product category section */
 
-.container{
-    width: 100%;
+.shop p{
+    text-align: center;
 }
