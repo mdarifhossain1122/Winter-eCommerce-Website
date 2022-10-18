@@ -104,3 +104,13 @@ body{
 .shop p{
     text-align: center;
 }
+
+/* Service section*/
+.product a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.product a:hover{
+    color: red;
+}
