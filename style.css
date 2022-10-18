@@ -126,3 +126,27 @@ body{
 .fa-money-check-dollar{
     font-size: 50px;
 }
+
+
+/*Footer section*/
+
+.card-body a{
+    text-decoration: none;
+    color: #000;
+}
+.card-body a:hover{
+    color: red;
+    transition: 0.3s;
+}
+.copyright{
+    text-align: center;
+}
+.information a{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+.information{
+    text-align: center;
+}
+
